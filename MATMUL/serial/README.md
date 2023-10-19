@@ -13,7 +13,6 @@ $ cmake . \
 
 ## Compile with Makefile
 ```
-$ FC=gfortran make run
+$ FC=gfortran make build
 ```
-`$ make run`
-
+`$ FC=gfortran make run`
